@@ -1,0 +1,6 @@
+id,username,nickname,profilePicture,createdAt
+550e8400-e29b-41d4-a716-446655440000,john_doe,John,http://example.com/john.jpg,2024-08-11T10:00:00Z
+6ba7b810-9dad-11d1-80b4-00c04fd430c8,jane_smith,Jane,http://example.com/jane.jpg,2024-08-11T10:30:00Z
+8c44a6c3-8d72-4f3e-a2e1-8f5e4fa2c7e9,mike_jones,Mike,http://example.com/mike.jpg,2024-08-11T11:00:00Z
+1c9e7422-9fd5-4774-8f5e-78eb43412345,emma_wilson,Emma,http://example.com/emma.jpg,2024-08-11T11:30:00Z
+2d8f9b13-ae06-4885-9f6f-89fc54523456,alex_taylor,Alex,http://example.com/alex.jpg,2024-08-11T12:00:00Z

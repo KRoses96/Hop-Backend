@@ -1,0 +1,6 @@
+node_modules
+.env
+drizzle
+archive_seed/
+.DS_STORE
+
